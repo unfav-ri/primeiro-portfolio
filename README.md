@@ -11,7 +11,7 @@ Este foi o meu primeiro portfólio que desenvolvi. Embora reconheça algumas lim
 ![Web](https://media.discordapp.net/attachments/1191521910442446949/1193020406316146828/image.png?ex=65ab31d6&is=6598bcd6&hm=a1431e85795b73b083b1829a27a8b15fcce035c4b18c99c776f0ba39f9876e17&=&format=webp&quality=lossless&width=1344&height=671)
 
 - **Recursos Interativos**
-  Efeito de Escrita: Apresenta uma simulação realista de alguém digitando as informações, proporcionando uma experiência imersiva.
+  **Efeito de Escrita:** Apresenta uma simulação realista de alguém digitando as informações, proporcionando uma experiência imersiva.
 
 - **Menu com Animação em Tela Cheia:** Oferece uma navegação dinâmica e visualmente atraente, elevando a interatividade do usuário.
 

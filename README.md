@@ -1,5 +1,5 @@
 # primeiro-portfolio
-Este é o meu primeiro portfólio em desenvolvimento. Embora reconheça algumas limitações, como a falta de responsividade para dispositivos móveis, acredito que ele contém muitos elementos interessantes que gostaria de compartilhar.
+Este foi o meu primeiro portfólio que desenvolvi. Embora reconheça algumas limitações, como a falta de responsividade para dispositivos móveis, acredito que ele contém muitos elementos interessantes que gostaria de compartilhar.
 
 ## Aspectos Visuais
 ### Visualização Inicial

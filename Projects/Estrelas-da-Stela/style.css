@@ -1,0 +1,10 @@
+body {
+  margin: auto;
+  background-color: hsl(0, 0%, 0%);
+  font: 30px sans-serif;
+  cursor: none;
+}
+
+canvas {
+  position: absolute;
+}

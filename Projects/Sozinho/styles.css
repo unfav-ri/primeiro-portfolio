@@ -1,0 +1,7 @@
+body,
+html {
+  margin: 0 auto;
+  padding: auto;
+  position: fixed;
+  background: black;
+}

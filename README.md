@@ -2,7 +2,9 @@
 
 Este foi o meu primeiro portfólio que desenvolvi. Embora reconheça algumas limitações, como a falta de responsividade para dispositivos móveis, acredito que ele contém muitos elementos interessantes que gostaria de compartilhar.
 
-## Aspectos Visuais
+## Prévia
+
+<img src="./primeiro-portfolio.gif">
 
 ### Visualização Inicial
 
@@ -11,10 +13,6 @@ Este foi o meu primeiro portfólio que desenvolvi. Embora reconheça algumas lim
 ### Visualização Menu
 
 ![Web](https://media.discordapp.net/attachments/1191521910442446949/1193020406316146828/image.png?ex=65ab31d6&is=6598bcd6&hm=a1431e85795b73b083b1829a27a8b15fcce035c4b18c99c776f0ba39f9876e17&=&format=webp&quality=lossless&width=1344&height=671)
-
-## Prévia
-
-<img src="./primeiro-portfolio.gif">
 
  **Recursos Interativos**
 - **Efeito de Escrita:** Apresenta uma simulação realista de alguém digitando as informações, proporcionando uma experiência imersiva.

@@ -22,3 +22,13 @@ Este foi o meu primeiro portfólio que desenvolvi. Embora reconheça algumas lim
 - **Efeitos de Botão e Transição de Páginas:** Elementos que enriquecem a experiência do usuário ao navegar pelo portfólio.
 
 Apesar de suas limitações atuais, estou orgulhoso do progresso alcançado e continuarei trabalhando para aprimorar minhas habilidades e futuras iterações do meu portfólio.
+
+# Tecnologias utilizadas
+
+- HTML5, CSS, JavaScript
+
+# Autor
+
+R. Gonçalves
+https://www.linkedin.com/in/unic-ri/
+

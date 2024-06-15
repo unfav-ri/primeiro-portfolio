@@ -4,33 +4,58 @@ Este foi o meu primeiro portfólio que desenvolvi. Embora reconheça algumas lim
 
 ## Prévia
 
-<img src="./primeiro-portfolio.gif">
+<img src="https://github.com/unfav-ri/assets/blob/master/PRIMEIRO-PORTIFOLIO/primeiro-portfolio.gif">
 
 ### Visualização Inicial
 
-<img src="./pag_inicial.png">
+<img src="https://github.com/unfav-ri/assets/blob/master/PRIMEIRO-PORTIFOLIO/pag_inicial.png">
 
 ### Visualização Menu
 
-<img src="./menu.png">
+<img src="https://github.com/unfav-ri/assets/blob/master/PRIMEIRO-PORTIFOLIO/menu.png">
 
- **Recursos Interativos**
+## Recursos Interativos
+
 - **Efeito de Escrita:** Apresenta uma simulação realista de alguém digitando as informações, proporcionando uma experiência imersiva.
-
 - **Menu com Animação em Tela Cheia:** Oferece uma navegação dinâmica e visualmente atraente, elevando a interatividade do usuário.
-
 - **Efeitos de Botão e Transição de Páginas:** Elementos que enriquecem a experiência do usuário ao navegar pelo portfólio.
 
 Apesar de suas limitações atuais, estou orgulhoso do progresso alcançado e continuarei trabalhando para aprimorar minhas habilidades e futuras iterações do meu portfólio.
 
-# Tecnologias utilizadas
+## Tecnologias Utilizadas
 
-- HTML5, CSS, JavaScript
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-# Autor
+## Como Executar o Projeto Localmente
 
-### R. Gonçalves
+Para visualizar a prévia do projeto localmente, siga os passos abaixo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rgoncalves-sp/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unfav_ri)
+1. Clone o repositório:
+    ```sh
+    git clone https://github.com/unfav-ri/netflix.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```sh
+    cd menu-responsivo-css
+    ```
+3. Abra o arquivo `index.html` em qualquer navegador web moderno.
+
+## Como Contribuir
+
+Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
+
+1. Faça um fork deste repositório.
+2. Crie uma nova branch (`git checkout -b feature/sua-feature`).
+3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`).
+4. Faça push para a branch (`git push origin feature/sua-feature`).
+5. Abra um Pull Request.
+
+## Autor
+
+**R. Gonçalves**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unic-ri/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unic_ri)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/210427541956198400)

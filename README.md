@@ -38,7 +38,7 @@ Para visualizar a prévia do projeto localmente, siga os passos abaixo:
     ```
 2. Navegue até o diretório do projeto:
     ```sh
-    cd menu-responsivo-css
+    cd primeiro-portfolio
     ```
 3. Abra o arquivo `index.html` em qualquer navegador web moderno.
 
